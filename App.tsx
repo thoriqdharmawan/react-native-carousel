@@ -120,8 +120,8 @@ const Square = ({ scrollX }) => {
             rotate,
           },
           {
-            translateX
-          }
+            translateX,
+          },
         ],
       }}
     />
@@ -172,7 +172,7 @@ export default function App() {
                     fontWeight: "800",
                     fontSize: 28,
                     marginBottom: 10,
-                    marginTop: 32
+                    marginTop: 32,
                   }}
                 >
                   {item.title}
