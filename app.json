@@ -1,0 +1,12 @@
+{
+  "name": "slick-carousel",
+  "displayName": "slick-carousel",
+  "expo": {
+    "name": "slick-carousel",
+    "slug": "slick-carousel",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
